@@ -1,1 +1,1 @@
-export const BACKEND_URL = "https://blog-app-avw2.onrender.com/api/users";
+export const BACKEND_URL = "https://blog-app-avw2.onrender.com/api/users/login";
