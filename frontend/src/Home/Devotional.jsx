@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 
 function Devotional() {
   const { blogs } = useAuth();
-  const devotionalBlogs = blogs?.filter((blog) => blog.category === "GOD");
+  const devotionalBlogs = blogs?.filter((blog) => blog.category === "GOD","Devotion","Sports","Coding","Entertainment","Business");
   console.log(devotionalBlogs);
   return (
     <div>

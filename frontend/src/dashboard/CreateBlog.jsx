@@ -72,6 +72,7 @@ function CreateBlog() {
                 <option value="Coding">Coding</option>
                 <option value="Entertainment">Entertainment</option>
                 <option value="Business">Business</option>
+                <option value="God">God</option>
               </select>
             </div>
 
